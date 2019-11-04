@@ -19,7 +19,7 @@ GenerateDoRamiCode = () => {
 		gen : oldGens,
 		new : gen.new
 	};
-	require('fs').writeFileSync('./node_modules/DoRami/gens.json', JSON.stringify(Ngen), err => { if(err) return console.log(err) });
+	require('fs').writeFileSync('./node_modules/dorami/gens.json', JSON.stringify(Ngen), err => { if(err) return console.log(err) });
 	console.log(str);
 	},
 inDoRamiCode = str => {
