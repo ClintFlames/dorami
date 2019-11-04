@@ -26,7 +26,7 @@ DoRami encryption allows you to encrypt text files without the possibility of de
 
 ```javascript
 //Declare a variable.
-const DoRami = require('DoRami');
+const DoRami = require('dorami');
 
 //Encode.
 let cipher = DoRami.in('Text or variable.');
