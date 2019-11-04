@@ -44,3 +44,4 @@ console.log(cipher);
 DoRami.gen();
 ```
 ## Good luck)
+[Discord.](https://discord.gg/d4rKqZs)
