@@ -1,0 +1,28 @@
+{
+  "name": "dorami",
+  "version": "2.0.0",
+  "description": "DoRami encryption",
+  "main": "dora.js",
+  "scripts": {
+    "test": "node dora.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CFormen3000/dorami.git"
+  },
+  "keywords": [
+    "dorami",
+    "npm",
+    "node",
+    "key",
+    "cipher",
+    "encrypt",
+    "decrypt"
+  ],
+  "author": "clintflames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CFormen3000/dorami/issues"
+  },
+  "homepage": "https://github.com/CFormen3000/dorami#readme"
+}
